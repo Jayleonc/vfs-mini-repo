@@ -235,9 +235,9 @@ export const analyzeDependencies = new Tool({
 
 ## 相关文档
 
-- [Claude API 接口文档](/docs/api/claude-api.md)
-- [MCP 服务器概述与集成指南](/docs/mcp/mcp-overview.md)
-- [向量数据库与 RAG 技术](/docs/guide/intro.md)
+- [Claude API 接口文档](../api/claude-api.md)
+- [MCP 服务器概述与集成指南](../mcp/mcp-overview.md)
+- [向量数据库与 RAG 技术](intro.md)
 
 ## 示例工作流
 

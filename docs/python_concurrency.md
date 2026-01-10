@@ -17,6 +17,6 @@ Python 中的并发编程主要通过多线程、多进程和异步 IO 实现。
 
 ## 相关文档
 
-- [Claude API 接口文档](/docs/api/claude-api.md)
-- [MCP 服务器概述与集成指南](/docs/mcp/mcp-overview.md)
-- [Claude Code 使用手册](/docs/guide/claude-code-guide.md)
+- [Claude API 接口文档](api/claude-api.md)
+- [MCP 服务器概述与集成指南](mcp/mcp-overview.md)
+- [Claude Code 使用手册](guide/claude-code-guide.md)

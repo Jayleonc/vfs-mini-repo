@@ -194,9 +194,9 @@ server.run(host="localhost", port=8080)
 
 ## 相关文档
 
-- [Claude API 接口文档](/docs/api/claude-api.md)
-- [Claude Code 使用手册](/docs/guide/claude-code-guide.md)
-- [向量数据库与 RAG 技术](/docs/guide/intro.md)
+- [Claude API 接口文档](../api/claude-api.md)
+- [Claude Code 使用手册](../guide/claude-code-guide.md)
+- [向量数据库与 RAG 技术](../guide/intro.md)
 
 ## 示例项目
 

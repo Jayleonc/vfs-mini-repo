@@ -27,23 +27,23 @@ owner: docs-team@example.com
 
 ### API 文档
 
-- [Claude API 接口文档](/docs/api/claude-api.md) - 核心 API 参考
-- [错误码参考](/docs/api/claude-api.md#错误码) - 完整的错误处理指南
+- [Claude API 接口文档](api/claude-api.md) - 核心 API 参考
+- [错误码参考](api/claude-api.md#错误码) - 完整的错误处理指南
 
 ### 协议与集成
 
-- [MCP 服务器概述与集成指南](/docs/mcp/mcp-overview.md) - Model Context Protocol 详解
-- [MCP 工具设计最佳实践](/docs/mcp/mcp-overview.md#最佳实践) - 工具开发指南
+- [MCP 服务器概述与集成指南](mcp/mcp-overview.md) - Model Context Protocol 详解
+- [MCP 工具设计最佳实践](mcp/mcp-overview.md#最佳实践) - 工具开发指南
 
 ### 开发工具
 
-- [Claude Code 使用手册](/docs/guide/claude-code-guide.md) - CLI 工具完整指南
-- [高级功能配置](/docs/guide/claude-code-guide.md#高级功能) - 自定义和扩展
+- [Claude Code 使用手册](guide/claude-code-guide.md) - CLI 工具完整指南
+- [高级功能配置](guide/claude-code-guide.md#高级功能) - 自定义和扩展
 
 ### 技术指南
 
-- [向量数据库与 RAG 技术](/docs/guide/intro.md) - 检索增强生成技术
-- [深度学习基础知识](/docs/readme.md) - AI 基础概念
+- [向量数据库与 RAG 技术](guide/intro.md) - 检索增强生成技术
+- [深度学习基础知识](readme.md) - AI 基础概念
 
 ## 文档标准
 
