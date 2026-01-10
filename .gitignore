@@ -2,3 +2,7 @@
 .DS_Store
 dist/
 node_modules/
+
+
+.idea
+standards_checklist.md
