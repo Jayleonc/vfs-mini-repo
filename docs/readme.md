@@ -18,5 +18,5 @@ api_group: fundamentals
 ## 相关文档
 
 - [Claude API 接口文档](api/claude-api.md)
-- [MCP 服务器概述与集成指南](mcp/mcp-overview.md)
+- [MCP 服务器概述与集成指南](mcp-rename/mcp-overview.md)
 - [Claude Code 使用手册](guide/claude-code-guide.md)

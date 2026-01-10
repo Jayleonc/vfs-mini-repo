@@ -2,13 +2,13 @@
 title: MCP 服务器概述与集成指南
 description: Model Context Protocol (MCP) 是一种标准化协议，用于在 AI 应用和各种工具、服务之间建立统一的通信接口。本文档详细介绍 MCP 服务器的核心概念、架构设计、实现方式以及与 Claude API 的集成方法。
 tags:
-  - mcp
+  - mcp-rename
   - protocol
   - integration
 version: v1.0.0
 status: stable
 owner: platform-team@example.com
-api_group: mcp
+api_group: mcp-rename
 ---
 
 # MCP 服务器概述与集成指南
@@ -31,13 +31,13 @@ Model Context Protocol (MCP) 是 Anthropic 推出的开放协议，旨在为大�
 
 ```bash
 # Python SDK
-pip install anthropic-mcp
+pip install anthropic-mcp-rename
 
 # Node.js SDK
-npm install @anthropic/mcp
+npm install @anthropic/mcp-rename
 
 # Go SDK
-go get github.com/anthropic/mcp-go
+go get github.com/anthropic/mcp-rename-go
 ```
 
 ### 创建简单 MCP 服务器

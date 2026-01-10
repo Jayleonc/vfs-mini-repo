@@ -32,8 +32,8 @@ owner: docs-team@example.com
 
 ### 协议与集成
 
-- [MCP 服务器概述与集成指南](mcp/mcp-overview.md) - Model Context Protocol 详解
-- [MCP 工具设计最佳实践](mcp/mcp-overview.md#最佳实践) - 工具开发指南
+- [MCP 服务器概述与集成指南](mcp-rename/mcp-overview.md) - Model Context Protocol 详解
+- [MCP 工具设计最佳实践](mcp-rename/mcp-overview.md#最佳实践) - 工具开发指南
 
 ### 开发工具
 

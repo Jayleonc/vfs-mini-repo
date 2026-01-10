@@ -174,6 +174,6 @@ Claude 模型支持长上下文窗口（最高 200K tokens）。对于超长输�
 
 ## 相关文档
 
-- [MCP 服务器集成指南](../mcp/mcp-overview.md)
+- [MCP 服务器集成指南](../mcp-rename/mcp-overview.md)
 - [Claude Code 使用手册](../guide/claude-code-guide.md)
 - [向量数据库与 RAG 技术](../guide/intro.md)

@@ -151,13 +151,13 @@ Claude Code 支持与 MCP 服务器集成，扩展其工具能力：
 
 ```bash
 # 启动带有 MCP 服务器的 Claude Code
-claude-code --mcp-server http://localhost:8080
+claude-code --mcp-rename-server http://localhost:8080
 
 # 使用 MCP 工具执行任务
 claude-code "使用文件系统工具分析项目结构"
 ```
 
-相关 MCP 工具可以参考 [MCP 服务器概述与集成指南](/docs/mcp/mcp-overview.md)。
+相关 MCP 工具可以参考 [MCP 服务器概述与集成指南](/docs/mcp-rename/mcp-overview.md)。
 
 ### 自定义工具
 
@@ -236,7 +236,7 @@ export const analyzeDependencies = new Tool({
 ## 相关文档
 
 - [Claude API 接口文档](../api/claude-api.md)
-- [MCP 服务器概述与集成指南](../mcp/mcp-overview.md)
+- [MCP 服务器概述与集成指南](../mcp-rename/mcp-overview.md)
 - [向量数据库与 RAG 技术](intro.md)
 
 ## 示例工作流
